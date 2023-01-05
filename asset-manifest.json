@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NTU-frontend/static/css/main.e5cdda46.css",
+    "main.js": "/NTU-frontend/static/js/main.de29e13a.js",
+    "static/js/787.cda612ba.chunk.js": "/NTU-frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/NTU-frontend/index.html",
+    "main.e5cdda46.css.map": "/NTU-frontend/static/css/main.e5cdda46.css.map",
+    "main.de29e13a.js.map": "/NTU-frontend/static/js/main.de29e13a.js.map",
+    "787.cda612ba.chunk.js.map": "/NTU-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cdda46.css",
+    "static/js/main.de29e13a.js"
+  ]
+}

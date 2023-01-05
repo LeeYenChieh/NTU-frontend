@@ -22,6 +22,8 @@ const CourseContext = createContext({
 const instance = axios.create({
     baseURL: `https://rating-backend.onrender.com`,
 });
+//http://localhost:4000
+
 const CourseProvider = (props) => {
     const [data,setData] = useState([]);
     const [pageNum,setPageNum] = useState(0);
